@@ -1,5 +1,10 @@
+gunicorn
+openpyxl
+plotly
 dash
+requests
+dash_renderer
+dash-html-components
+dash-core-components
 pandas
-plotly.graph_objs as go
-plotly.io as pio
 numpy
