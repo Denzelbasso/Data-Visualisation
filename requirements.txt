@@ -1,7 +1,5 @@
 dash
-pandas as pd
+pandas
 plotly.graph_objs as go
-plotly.express as px
 plotly.io as pio
-xlrd
-numpy as np
+numpy
