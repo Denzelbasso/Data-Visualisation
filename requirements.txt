@@ -1,11 +1,7 @@
 dash
 pandas
-gunicorn
-plotly
-requests
-dash_renderer
-dash-html-components
-dash-core-components
-pandas
-numpy
+plotly.graph_objs as go
+plotly.express as px
+plotly.io as pio
 xlrd
+numpy
